@@ -14,3 +14,7 @@
 ### @2019-05-05
 
 同步自 vue-cli-service@3.7.0
+
+1. `./lib/commands/build/resolveLibConfig.js`
+   修改 lib 打包输出结果；输出文件添加 hash 防缓存
+2. 替换 command 命令 vue-cli-service 为 mfv-cli-service

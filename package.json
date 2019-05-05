@@ -1,11 +1,11 @@
 {
-  "name": "@vue/cli-service",
+  "name": "mfv-cli-service",
   "version": "3.7.0",
   "description": "local service for vue-cli projects",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
   "bin": {
-    "vue-cli-service": "bin/vue-cli-service.js"
+    "mfv-cli-service": "bin/vue-cli-service.js"
   },
   "repository": {
     "type": "git",
